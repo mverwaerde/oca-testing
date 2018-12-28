@@ -1,7 +1,9 @@
+package assessment;
+
 public class Deer {
 
     public Deer() {
-        System.out.println("Deer");
+        System.out.println("assessment.Deer");
     }
     public Deer(int age){
         System.out.println("DeerAge");

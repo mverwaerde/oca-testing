@@ -1,3 +1,5 @@
+package assessment;
+
 public class FeedingSchedule {
 
     private static void firstFeedingSchedule() {

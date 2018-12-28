@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package assessment;
 
 public class MathFunction {
 

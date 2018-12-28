@@ -1,3 +1,5 @@
+package assessment;
+
 public class Egret {
 
     private String color;
